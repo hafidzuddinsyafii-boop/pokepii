@@ -4,6 +4,7 @@
     "name": "Bulbasaur",
     "genus": "Seed Pokémon",
     "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON.",
+    "link": "https://www.pokemon.com/us/pokedex/bulbasaur",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/1.webp",
     "types": ["Grass", "Poison"],
     "abilities": [
@@ -29,11 +30,13 @@
     "locations": ["Cerulean City", "Pallet Town", "Lumiose City"],
     "color": "#d1e8dd"
   },
+
   {
     "id": 2,
     "name": "Ivysaur",
     "genus": "Seed Pokémon",
     "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+    "link": "https://www.pokemon.com/us/pokedex/ivysaur",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/2.webp",
     "types": ["Grass", "Poison"],
     "abilities": [
@@ -64,6 +67,7 @@
     "name": "Venusaur",
     "genus": "Seed Pokémon",
     "description": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+    "link": "https://www.pokemon.com/us/pokedex/venusaur",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/3.webp",
     "types": ["Grass", "Poison"],
     "abilities": [
@@ -94,6 +98,7 @@
     "name": "Charmander",
     "genus": "Lizard Pokémon",
     "description": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
+    "link": "https://www.pokemon.com/us/pokedex/charmander",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/4.webp",
     "types": ["Fire"],
     "abilities": [
@@ -124,6 +129,7 @@
     "name": "Charmeleon",
     "genus": "Flame Pokémon",
     "description": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
+    "link":"https://www.pokemon.com/us/pokedex/charmeleon",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/5.webp",
     "types": ["Fire"],
     "abilities": [
@@ -154,6 +160,7 @@
     "name": "Charizard",
     "genus": "Flame Pokémon",
     "description": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+    "link":"https://www.pokemon.com/us/pokedex/charizard",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/6.webp",
     "types": ["Fire", "Flying"],
     "abilities": [
@@ -184,6 +191,7 @@
     "name": "Squirtle",
     "genus": "Tiny Turtle Pokémon",
     "description": "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
+    "link":"https://www.pokemon.com/us/pokedex/squirtle",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/7.webp",
     "types": ["Water"],
     "abilities": [
@@ -214,6 +222,7 @@
     "name": "Wartortle",
     "genus": "Turtle Pokémon",
     "description": "When tapped, this POKéMON will pull in its head, but its tail will still stick out a little bit.",
+    "link":"https://www.pokemon.com/us/pokedex/wartortle",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/8.webp",
     "types": ["Water"],
     "abilities": [
@@ -243,6 +252,7 @@
     "id": 9,
     "name": "Blastoise",
     "genus": "Shellfish Pokémon",
+    "link":"https://www.pokemon.com/us/pokedex/blastoise",
     "description": "It deliberately makes itself heavy so it can withstand the recoil of the water jets it fires.",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/9.webp",
     "types": ["Water"],
@@ -273,6 +283,7 @@
     "id": 10,
     "name": "Caterpie",
     "genus": "Worm Pokémon",
+    "link":"https://www.pokemon.com/us/pokedex/caterpie",
     "description": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/10.webp",
     "types": ["Bug"],
@@ -327,6 +338,7 @@
     "id": 11,
     "name": "Metapod",
     "genus": "Cocoon Pokémon",
+    "link":"https://www.pokemon.com/us/pokedex/metapod",
     "description": "This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/11.webp",
     "types": ["Bug"],
@@ -376,6 +388,7 @@
     "name": "Butterfree",
     "genus": "Butterfly Pokémon",
     "description": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+    "link":"https://www.pokemon.com/us/pokedex/butterfree",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/12.webp",
     "types": ["Bug", "Flying"],
     "abilities": [
@@ -423,6 +436,7 @@
     "name": "Weedle",
     "genus": "Hairy Bug Pokémon",
     "description": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
+    "link":"https://www.pokemon.com/us/pokedex/weedle",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/13.webp",
     "types": ["Bug", "Poison"],
     "abilities": [
@@ -477,6 +491,7 @@
     "name": "Kakuna",
     "genus": "Cocoon Pokémon",
     "description": "Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators.",
+    "link":"https://www.pokemon.com/us/pokedex/kakuna",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/14.webp",
     "types": ["Bug", "Poison"],
     "abilities": [
@@ -525,6 +540,7 @@
     "name": "Beedrill",
     "genus": "Poison Bee Pokémon",
     "description": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
+    "link":"https://www.pokemon.com/us/pokedex/beedrill",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/15.webp",
     "types": ["Bug", "Poison"],
     "abilities": [
@@ -570,6 +586,7 @@
     "name": "Pidgey",
     "genus": "Tiny Bird Pokémon",
     "description": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+    "link":"https://www.pokemon.com/us/pokedex/pidgey",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/16.webp",
     "types": ["Normal", "Flying"],
     "abilities": [
@@ -636,6 +653,7 @@
     "name": "Pidgeotto",
     "genus": "Bird Pokémon",
     "description": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder.",
+    "link":"https://www.pokemon.com/us/pokedex/pidgeotto",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/17.webp",
     "types": ["Normal", "Flying"],
     "abilities": [
@@ -693,6 +711,7 @@
     "name": "Pidgeot",
     "genus": "Bird Pokémon",
     "description": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.",
+    "link":"https://www.pokemon.com/us/pokedex/pidgeot",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/18.webp",
     "types": ["Normal", "Flying"],
     "abilities": [
@@ -728,6 +747,7 @@
     "name": "Rattata",
     "genus": "Mouse Pokémon",
     "description": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+    "link":"https://www.pokemon.com/us/pokedex/rattata",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/19.webp",
     "types": ["Normal"],
     "abilities": [
@@ -803,6 +823,7 @@
     "name": "Raticate",
     "genus": "Mouse Pokémon",
     "description": "It uses its whiskers to maintain its balance. It apparently slows down if they are cut off.",
+    "link":"https://www.pokemon.com/us/pokedex/raticate",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/20.webp",
     "types": ["Normal"],
     "abilities": [
@@ -868,6 +889,7 @@
     "name": "Spearow",
     "genus": "Tiny Bird Pokémon",
     "description": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+    "link":"https://www.pokemon.com/us/pokedex/spearow",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/21.webp",
     "types": ["Normal", "Flying"],
     "abilities": [
@@ -932,6 +954,7 @@
     "name": "Fearow",
     "genus": "Beak Pokémon",
     "description": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
+    "link":"https://www.pokemon.com/us/pokedex/fearow",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/22.webp",
     "types": ["Normal", "Flying"],
     "abilities": [
@@ -986,6 +1009,7 @@
     "name": "Ekans",
     "genus": "Snake Pokémon",
     "description": "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
+    "link":"https://www.pokemon.com/us/pokedex/ekans",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/23.webp",
     "types": ["Poison"],
     "abilities": [
@@ -1036,6 +1060,7 @@
     "name": "Arbok",
     "genus": "Cobra Pokémon",
     "description": "It is rumored that the ferocious warning markings on its belly differ from area to area.",
+    "link":"https://www.pokemon.com/us/pokedex/arbok",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/24.webp",
     "types": ["Poison"],
     "abilities": [
@@ -1083,6 +1108,7 @@
     "name": "Pikachu",
     "genus": "Mouse Pokémon",
     "description": "When several of these POKéMON gather, their electricity could build and cause lightning storms.",
+    "link":"https://www.pokemon.com/us/pokedex/pikachu",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/25.webp",
     "types": ["Electric"],
     "abilities": [
@@ -1126,6 +1152,7 @@
     "name": "Raichu",
     "genus": "Mouse Pokémon",
     "description": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+    "link":"https://www.pokemon.com/us/pokedex/raichu",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/26.webp",
     "types": ["Electric"],
     "abilities": [
@@ -1156,6 +1183,7 @@
     "name": "Sandshrew",
     "genus": "Mouse Pokémon",
     "description": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
+    "link":"https://www.pokemon.com/us/pokedex/sandshrew",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/27.webp",
     "types": ["Ground"],
     "abilities": [
@@ -1202,6 +1230,7 @@
     "name": "Sandslash",
     "genus": "Mouse Pokémon",
     "description": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
+    "link":"https://www.pokemon.com/us/pokedex/sandslash",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/28.webp",
     "types": ["Ground"],
     "abilities": [
@@ -1244,6 +1273,7 @@
     "name": "Nidoran♀",
     "genus": "Poison Pin Pokémon",
     "description": "Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns.",
+    "link":"https://www.pokemon.com/us/pokedex/nidoran-female",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/29.webp",
     "types": ["Poison"],
     "abilities": [
@@ -1290,6 +1320,7 @@
     "name": "Nidorina",
     "genus": "Poison Pin Pokémon",
     "description": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
+    "link":"https://www.pokemon.com/us/pokedex/nidorina",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/30.webp",
     "types": ["Poison"],
     "abilities": [
@@ -1335,6 +1366,7 @@
     "name": "Nidoqueen",
     "genus": "Drill Pokémon",
     "description": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
+    "link":"https://www.pokemon.com/us/pokedex/nidoqueen",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/31.webp",
     "types": ["Poison", "Ground"],
     "abilities": [
@@ -1370,6 +1402,7 @@
     "name": "Nidoran♂",
     "genus": "Poison Pin Pokémon",
     "description": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
+    "link":"https://www.pokemon.com/us/pokedex/nidoran-male",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/32.webp",
     "types": ["Poison"],
     "abilities": [
@@ -1416,6 +1449,7 @@
     "name": "Nidorino",
     "genus": "Poison Pin Pokémon",
     "description": "An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom.",
+    "link":"https://www.pokemon.com/us/pokedex/nidorino",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/33.webp",
     "types": ["Poison"],
     "abilities": [
@@ -1461,6 +1495,7 @@
     "name": "Nidoking",
     "genus": "Drill Pokémon",
     "description": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+    "link":"https://www.pokemon.com/us/pokedex/nidoking",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/34.webp",
     "types": ["Poison", "Ground"],
     "abilities": [
@@ -1496,6 +1531,7 @@
     "name": "Clefairy",
     "genus": "Fairy Pokémon",
     "description": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
+    "link":"https://www.pokemon.com/us/pokedex/clefairy",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/35.webp",
     "types": ["Fairy"],
     "abilities": [
@@ -1537,6 +1573,7 @@
     "name": "Clefable",
     "genus": "Fairy Pokémon",
     "description": "A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people.",
+    "link": "https://www.pokemon.com/us/pokedex/clefable",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/36.webp",
     "types": ["Fairy"],
     "abilities": [
@@ -1568,81 +1605,11 @@
     "color": "#faefec"
   },
   {
-    "id": 37,
-    "name": "Vulpix",
-    "genus": "Fox Pokémon",
-    "description": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/37.webp",
-    "types": ["Fire"],
-    "abilities": [
-      {
-        "name": "Flash Fire",
-        "effect": "This Pokémon is immune to fire-type moves.  Once this Pokémon has been hit by a Fire move, its own Fire moves will inflict 1.5× as much damage until it leaves battle.  This ability has no effect while the Pokémon is frozen.  The Fire damage bonus is retained even if the Pokémon is frozen and thawed or the ability is lost or disabled.  Fire moves will ignore this Pokémon's substitute.  This ability takes effect even on non-damaging moves, i.e. will o wisp.",
-        "description": "Powers up if hit by fire."
-      },
-      {
-        "name": "Drought",
-        "effect": "The weather changes to strong sunlight when this Pokémon enters battle and does not end unless cancelled by another weather condition.  If multiple Pokémon with this ability, drizzle, sand stream, or snow warning are sent out at the same time, the abilities will activate in order of Speed, respecting trick room.  Each ability's weather will cancel the previous weather, and only the weather summoned by the slowest of the Pokémon will stay.",
-        "description": "Summons sunlight in battle."
-      }
-    ],
-    "stats": {
-      "HP": 38,
-      "Attack": 41,
-      "Defense": 40,
-      "Special Attack": 50,
-      "Special Defense": 65,
-      "Speed": 65
-    },
-    "locations": [
-      "Route 209",
-      "Route 214",
-      "Route 36",
-      "Route 37",
-      "Route 48",
-      "Route 7",
-      "Route 8",
-      "Pokémon Mansion",
-      "Mt. Pyre",
-      "Abundant Shrine"
-    ],
-    "color": "#e6cfc5"
-  },
-  {
-    "id": 38,
-    "name": "Ninetales",
-    "genus": "Fox Pokémon",
-    "description": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/38.webp",
-    "types": ["Fire"],
-    "abilities": [
-      {
-        "name": "Flash Fire",
-        "effect": "This Pokémon is immune to fire-type moves.  Once this Pokémon has been hit by a Fire move, its own Fire moves will inflict 1.5× as much damage until it leaves battle.  This ability has no effect while the Pokémon is frozen.  The Fire damage bonus is retained even if the Pokémon is frozen and thawed or the ability is lost or disabled.  Fire moves will ignore this Pokémon's substitute.  This ability takes effect even on non-damaging moves, i.e. will o wisp.",
-        "description": "Powers up if hit by fire."
-      },
-      {
-        "name": "Drought",
-        "effect": "The weather changes to strong sunlight when this Pokémon enters battle and does not end unless cancelled by another weather condition.  If multiple Pokémon with this ability, drizzle, sand stream, or snow warning are sent out at the same time, the abilities will activate in order of Speed, respecting trick room.  Each ability's weather will cancel the previous weather, and only the weather summoned by the slowest of the Pokémon will stay.",
-        "description": "Summons sunlight in battle."
-      }
-    ],
-    "stats": {
-      "HP": 73,
-      "Attack": 76,
-      "Defense": 75,
-      "Special Attack": 81,
-      "Special Defense": 100,
-      "Speed": 100
-    },
-    "locations": ["Abundant Shrine"],
-    "color": "#f9f4d9"
-  },
-  {
     "id": 39,
     "name": "Jigglypuff",
     "genus": "Balloon Pokémon",
     "description": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+    "link": "https://www.pokemon.com/us/pokedex/jigglypuff",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/39.webp",
     "types": ["Normal", "Fairy"],
     "abilities": [
@@ -1695,6 +1662,7 @@
     "name": "Wigglytuff",
     "genus": "Balloon Pokémon",
     "description": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+    "link": "https://www.pokemon.com/us/pokedex/wigglytuff",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/40.webp",
     "types": ["Normal", "Fairy"],
     "abilities": [
@@ -1732,10 +1700,84 @@
     "color": "#faf7fa"
   },
   {
+    "id": 37,
+    "name": "Vulpix",
+    "genus": "Fox Pokémon",
+    "description": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older.",
+    "link": "https://www.pokemon.com/us/pokedex/vulpix",
+    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/37.webp",
+    "types": ["Fire"],
+    "abilities": [
+      {
+        "name": "Flash Fire",
+        "effect": "This Pokémon is immune to fire-type moves.  Once this Pokémon has been hit by a Fire move, its own Fire moves will inflict 1.5× as much damage until it leaves battle.  This ability has no effect while the Pokémon is frozen.  The Fire damage bonus is retained even if the Pokémon is frozen and thawed or the ability is lost or disabled.  Fire moves will ignore this Pokémon's substitute.  This ability takes effect even on non-damaging moves, i.e. will o wisp.",
+        "description": "Powers up if hit by fire."
+      },
+      {
+        "name": "Drought",
+        "effect": "The weather changes to strong sunlight when this Pokémon enters battle and does not end unless cancelled by another weather condition.  If multiple Pokémon with this ability, drizzle, sand stream, or snow warning are sent out at the same time, the abilities will activate in order of Speed, respecting trick room.  Each ability's weather will cancel the previous weather, and only the weather summoned by the slowest of the Pokémon will stay.",
+        "description": "Summons sunlight in battle."
+      }
+    ],
+    "stats": {
+      "HP": 38,
+      "Attack": 41,
+      "Defense": 40,
+      "Special Attack": 50,
+      "Special Defense": 65,
+      "Speed": 65
+    },
+    "locations": [
+      "Route 209",
+      "Route 214",
+      "Route 36",
+      "Route 37",
+      "Route 48",
+      "Route 7",
+      "Route 8",
+      "Pokémon Mansion",
+      "Mt. Pyre",
+      "Abundant Shrine"
+    ],
+    "color": "#e6cfc5"
+  },
+  {
+    "id": 38,
+    "name": "Ninetales",
+    "genus": "Fox Pokémon",
+    "description": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
+    "link": "https://www.pokemon.com/us/pokedex/ninetales",
+    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/38.webp",
+    "types": ["Fire"],
+    "abilities": [
+      {
+        "name": "Flash Fire",
+        "effect": "This Pokémon is immune to fire-type moves.  Once this Pokémon has been hit by a Fire move, its own Fire moves will inflict 1.5× as much damage until it leaves battle.  This ability has no effect while the Pokémon is frozen.  The Fire damage bonus is retained even if the Pokémon is frozen and thawed or the ability is lost or disabled.  Fire moves will ignore this Pokémon's substitute.  This ability takes effect even on non-damaging moves, i.e. will o wisp.",
+        "description": "Powers up if hit by fire."
+      },
+      {
+        "name": "Drought",
+        "effect": "The weather changes to strong sunlight when this Pokémon enters battle and does not end unless cancelled by another weather condition.  If multiple Pokémon with this ability, drizzle, sand stream, or snow warning are sent out at the same time, the abilities will activate in order of Speed, respecting trick room.  Each ability's weather will cancel the previous weather, and only the weather summoned by the slowest of the Pokémon will stay.",
+        "description": "Summons sunlight in battle."
+      }
+    ],
+    "stats": {
+      "HP": 73,
+      "Attack": 76,
+      "Defense": 75,
+      "Special Attack": 81,
+      "Special Defense": 100,
+      "Speed": 100
+    },
+    "locations": ["Abundant Shrine"],
+    "color": "#f9f4d9"
+  },
+  {
     "id": 41,
     "name": "Zubat",
     "genus": "Bat Pokémon",
     "description": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
+    "link": "https://www.pokemon.com/us/pokedex/zubat",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/41.webp",
     "types": ["Poison", "Flying"],
     "abilities": [
@@ -1818,6 +1860,7 @@
     "name": "Golbat",
     "genus": "Bat Pokémon",
     "description": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+    "link": "https://www.pokemon.com/us/pokedex/golbat",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/42.webp",
     "types": ["Poison", "Flying"],
     "abilities": [
@@ -1886,6 +1929,7 @@
     "name": "Oddish",
     "genus": "Weed Pokémon",
     "description": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
+    "link": "https://www.pokemon.com/us/pokedex/oddish",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/43.webp",
     "types": ["Grass", "Poison"],
     "abilities": [
@@ -1941,6 +1985,7 @@
     "name": "Gloom",
     "genus": "Weed Pokémon",
     "description": "It secretes a sticky, drool-like honey. Although sweet, it smells too repulsive to get very close.",
+    "link":"https://www.pokemon.com/us/pokedex/gloom",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/44.webp",
     "types": ["Grass", "Poison"],
     "abilities": [
@@ -1991,6 +2036,7 @@
     "name": "Vileplume",
     "genus": "Flower Pokémon",
     "description": "It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
+    "link":"https://www.pokemon.com/us/pokedex/vileplume",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/45.webp",
     "types": ["Grass", "Poison"],
     "abilities": [
@@ -2021,6 +2067,7 @@
     "name": "Paras",
     "genus": "Mushroom Pokémon",
     "description": "Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host.",
+    "link":"https://www.pokemon.com/us/pokedex/paras",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/46.webp",
     "types": ["Bug", "Grass"],
     "abilities": [
@@ -2056,6 +2103,7 @@
     "name": "Parasect",
     "genus": "Mushroom Pokémon",
     "description": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
+    "link":"https://www.pokemon.com/us/pokedex/parasect",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/47.webp",
     "types": ["Bug", "Grass"],
     "abilities": [
@@ -2091,6 +2139,7 @@
     "name": "Venonat",
     "genus": "Insect Pokémon",
     "description": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
+    "link":"https://www.pokemon.com/us/pokedex/venonat",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/48.webp",
     "types": ["Bug", "Poison"],
     "abilities": [
@@ -2143,6 +2192,7 @@
     "name": "Venomoth",
     "genus": "Poison Moth Pokémon",
     "description": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
+    "link":"https://www.pokemon.com/us/pokedex/venomoth",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/49.webp",
     "types": ["Bug", "Poison"],
     "abilities": [
@@ -2193,6 +2243,7 @@
     "name": "Diglett",
     "genus": "Mole Pokémon",
     "description": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
+    "link":"https://www.pokemon.com/us/pokedex/diglett",
     "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/50.webp",
     "types": ["Ground"],
     "abilities": [
